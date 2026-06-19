@@ -39,5 +39,5 @@ Sample Superstore Sales Dataset
 ## Author
 
 Ancelin Merbina . M
-B.Tech Information Technology
+B.Tech Information Technology(3rd year)
 St. Xavier's Catholic College of Engineering
